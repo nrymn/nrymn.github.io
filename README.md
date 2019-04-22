@@ -1,3 +1,3 @@
 # nrymn.github.io
-Hello world\
+Hello world
 Welcome to selamat datang ...
